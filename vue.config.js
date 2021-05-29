@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/MONO-DDR/'
+    publicPath: '/DDR-DL4U/'
 }
