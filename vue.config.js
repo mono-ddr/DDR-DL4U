@@ -1,3 +1,7 @@
 module.exports = {
-    publicPath: '/DDR-DL4U/'
+    publicPath: '/DDR-DL4U/',
+
+    transpileDependencies: [
+      'vuetify'
+    ]
 }
